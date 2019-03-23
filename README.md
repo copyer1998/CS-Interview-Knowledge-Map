@@ -1,3 +1,9 @@
+> 源地址为https://yuchengkai.cn/docs/ fork自https://github.com/InterviewMap/CS-Interview-Knowledge-Map
+>
+> 作者：[InterviewMap](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+>
+> 授权：[署名-非商用许可证](http://creativecommons.org/licenses/by-nc/4.0/)
+
 ## ⛏JS
 
 - [内置类型](/JS/JS-ch.md#%E5%86%85%E7%BD%AE%E7%B1%BB%E5%9E%8B)
@@ -128,15 +134,15 @@
 
 ## 🥈vue
 
-- [NextTick 原理分析](Framework/vue-ch.md#nexttick-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90)
-- [生命周期分析](Framework/vue-ch.md#%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%88%86%E6%9E%90)
-- [VueRouter 源码解析](Framework/vue-ch.md#vuerouter-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
-  - [重要函数思维导图](Framework/vue-ch.md#%E9%87%8D%E8%A6%81%E5%87%BD%E6%95%B0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
-  - [路由注册](Framework/vue-ch.md#%E8%B7%AF%E7%94%B1%E6%B3%A8%E5%86%8C)
-  - [VueRouter 实例化](Framework/vue-ch.md#vuerouter-%E5%AE%9E%E4%BE%8B%E5%8C%96)
-  - [创建路由匹配对象](Framework/vue-ch.md#%E5%88%9B%E5%BB%BA%E8%B7%AF%E7%94%B1%E5%8C%B9%E9%85%8D%E5%AF%B9%E8%B1%A1)
-  - [路由初始化](Framework/vue-ch.md#%E8%B7%AF%E7%94%B1%E5%88%9D%E5%A7%8B%E5%8C%96)
-  - [路由跳转](Framework/vue-ch.md#%E8%B7%AF%E7%94%B1%E8%B7%B3%E8%BD%AC)
+- [NextTick 原理分析](Framework/vue-zh.md#nexttick-%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90)
+- [生命周期分析](Framework/vue-zh.md#%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E5%88%86%E6%9E%90)
+- [VueRouter 源码解析](Framework/vue-zh.md#vuerouter-%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90)
+  - [重要函数思维导图](Framework/vue-zh.md#%E9%87%8D%E8%A6%81%E5%87%BD%E6%95%B0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE)
+  - [路由注册](Framework/vue-zh.md#%E8%B7%AF%E7%94%B1%E6%B3%A8%E5%86%8C)
+  - [VueRouter 实例化](Framework/vue-zh.md#vuerouter-%E5%AE%9E%E4%BE%8B%E5%8C%96)
+  - [创建路由匹配对象](Framework/vue-zh.md#%E5%88%9B%E5%BB%BA%E8%B7%AF%E7%94%B1%E5%8C%B9%E9%85%8D%E5%AF%B9%E8%B1%A1)
+  - [路由初始化](Framework/vue-zh.md#%E8%B7%AF%E7%94%B1%E5%88%9D%E5%A7%8B%E5%8C%96)
+  - [路由跳转](Framework/vue-zh.md#%E8%B7%AF%E7%94%B1%E8%B7%B3%E8%BD%AC)
 
 ## 🏅React
 
