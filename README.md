@@ -151,3 +151,5 @@
 - [setState](Framework/react-zh#setstate)
 - [Redux 源码分析](Framework/react-zh#redux-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
 
+<script async src="//jsrun.net/WeXKp/embed/all/light/"></script>
+
